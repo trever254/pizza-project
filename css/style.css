@@ -2,7 +2,7 @@ body{
     font-family: "Lucida Console", Courier, monospace;
 }
 #home{
-    background-image: url("image/download.jpeg");
+    background-image: url("https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.360degreespizza.com%2F&psig=AOvVaw3GxM6k0qc89gKK-tcJqosl&ust=1590568631226000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPifu4SQ0ekCFQAAAAAdAAAAABAI");
     background-size: cover;
     background-position: center;
     color: white;
@@ -27,4 +27,8 @@ h3{
 }
 li{
     display: inline-block;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
 }
