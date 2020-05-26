@@ -1,7 +1,7 @@
 body{
     font-family: "Lucida Console", Courier, monospace;
 }
-.home{
+#home{
     background-image: url("https://thumbs.dreamstime.com/b/african-american-woman-eating-pizza-outdoor-restaurant-portrait-59936960.jpg");
     background-repeat: no-repeat;
     background-size: cover;
