@@ -1,0 +1,12 @@
+body{
+    font-family: "Lucida Console", Courier, monospace;
+}
+#home{
+    background-image: url("image/download.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 100vh;
+}
+
