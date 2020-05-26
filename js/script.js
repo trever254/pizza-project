@@ -55,6 +55,9 @@ $(document).ready(function(){
     if ($("#address").val()==""){
         alert("where can we find you")
     }
+    else if($("#address").val()==""){
+        alert("where can we find you")
+    }
     else{
         alert("The order will be delivered at " + address + "in a short while thank you for being our customer.")
     }
