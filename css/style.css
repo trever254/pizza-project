@@ -11,6 +11,9 @@ body{
     height: 100vh;
 
 }
+h1{
+    font-weight: bolder;
+}
 .place{
     background-color: black;
     color: white;
