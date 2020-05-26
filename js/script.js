@@ -49,3 +49,13 @@ function cheese() {
     totalCost = crustPrizes[cheeseCrust] + sizePrice[cheeseSize] * cheeseQuantity
     document.getElementById("cheeseOrder").innerHTML = cheeseQuantity + " Pineapple " + sizes[cheeseSize] + "/" + crustNames[cheeseCrust] + " crust" + " @" + totalCost
 }
+$(document).ready(function(){
+    event.preventDefault();
+    var address=$("#address").val();
+    if ($("#address").val()==""){
+        alert("where can we find you")
+    }
+    else{
+        alert("The order will be delivered at " + address + "in a short while thank you for being our customer.")
+    }
+});
