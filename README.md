@@ -1,33 +1,22 @@
-##Project name
 KEZ'S KITCHEN PIZZA APP
 
-##Project description 
-This web application gives the user a freedom where he or she can order pizza wherever they are and what they have ordered can be 
-delivered in their door steps within a short period of time.
-And for a pizza to be delivered on your door step one needs to 
-put the address of wherever he or she is so that he can get the order.
+Author
+Trever Akumu 
+Date:27th May 2020
 
-##Author's information
-Name:Trever Omondi Akumu
-A Moringa school student in prep class
+DESCRIPTION:
+<li>User can order for pizza</li>
+<li>he or she can choose the toppings that they want</li>
+<li>Any quantity can be chosen</li>
 
+Technologies used
+<li>Javascript</li>
+<li>Css</li>
+<li>HTML</li>
+<li>jquery</li>
+<li>bootstrap</li>
 
-##Setup instructions
-It is a must to put your address so that your order can be reached
+Challenges 
+<li>Had a challenge of finishing the project on time</li>
+<li>Had a lot of challenges on my javascript working</li>
 
-#BDD
-The website makes work of the user more easier by just ordering pizza
-at his or her home instead of going outside which wastes his or her 
-energy
-
-##Technologies used
-Index.html
-Style.css
-Bootstrap.css
-Javascript
-
-##Licence and Copyright Information
-None
-
-##livelink
-https://trever254.github.io/pizza-project/
